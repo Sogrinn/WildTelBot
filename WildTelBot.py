@@ -8,7 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 from telebot import *
 
-token = '5545366890:AAHXSZlxYPKs6-vIu7W1Ciql4eooycAGRrw'
+token = ''
 
 bot = telebot.TeleBot(token)
 
